@@ -78,6 +78,9 @@ document.getElementById('next-button').addEventListener('click', function(){
   addHide('available-section')
   addHide('paribahan-section')
   addHide('ticket-section')
+  addHide('coupon')
+  addHide('header')
+  addHide('footer')
   removeHide('success-card')
  
 
